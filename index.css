@@ -1,0 +1,45 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background: green url(images/engin-akyurt-41nfd5Jh6wk-unsplash-resized.jpg);
+    background-size: cover; 
+}
+
+.container {
+    text-align: center;
+    margin: 0 auto;
+    padding: 1rem;
+}
+
+h1 {
+    color: goldenrod;
+    font-size: 4rem;
+}
+
+p {
+    color: white;
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+#message-el {
+    font-style: italic;
+}
+
+.blackjackBtn {
+    background-color: goldenrod;
+    color: #016f32;
+    font-size: 2rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    border: 0;
+    border-radius: 1rem;
+    padding: 1rem;
+    margin-top: 1rem;
+    cursor: pointer;
+    width: 250px;
+    margin-bottom: 5px;
+}
+
+.hide {
+    display: none;
+}
